@@ -1,0 +1,1 @@
+# Calculadora Python - Dependênciasn# Este projeto usa apenas bibliotecas padrão do Pythonnn# Python 3.6+ (tkinter já vem incluído)n# Não são necessárias dependências externas
